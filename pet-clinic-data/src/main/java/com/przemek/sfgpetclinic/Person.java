@@ -1,4 +1,4 @@
-package com.przemek.sfgpetclinic.model;
+package com.przemek.sfgpetclinic;
 
 public class Person {
 
